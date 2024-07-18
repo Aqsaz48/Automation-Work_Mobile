@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="sfa.listeners.TestListener" />
+	 <!-- <listener class-name="sfa.listeners.AnnotationTransformer" /> -->
+	</listeners>
+	<test thread-count="5" name="Android_Testing">
+
+             <parameter name="platform" value="ANDROID" />
+             <parameter name="device" value="Samsung Galaxy S22 Ultra" />
+             <parameter name="version" value="12.0" />
+
+
+		<!--<parameter name="platform" value="LOCAL_ANDROID" />
+       <parameter name="device"
+           value="R58W1190SDT" />
+       <parameter name="version" value="12.0" />
+       -->
+
+   <classes>
+
+       <class name="sfa.mobile.LoginTC_English">
+           <methods>
+               <include name="loginEmailPwdTest"></include>
+               <!--<include name="groupFunctionality"></include>
+               <include name="discoverFunctionalityCricket"></include>
+               <include name="discoverFunctionalityFootBall"></include>
+               -->
+				</methods>
+			</class>
+
+	   <!--<class name="sfa.mobile.LoginTC_Arabic">
+           <methods>
+               <include name="loginEmailPwdTest_Ar"></include>
+               <include name="discoverPageNavigatetion_Ar"></include>
+
+				</methods>
+			</class>
+			-->
+
+			
+			
+			
+		</classes>
+	</test>
+</suite>
+<!-- Suite -->

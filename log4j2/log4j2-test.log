@@ -1,0 +1,80 @@
+[INFO ] 2024-07-18 00:09:40.175 [main] Log - I am in onStart method Android_Testing
+[INFO ] 2024-07-18 00:10:28.725 [main] Log - loginEmailPwdTest_Ar test is starting.
+[INFO ] 2024-07-18 00:11:57.042 [main] Log - loginEmailPwdTest_Ar test is failed.
+[INFO ] 2024-07-18 00:12:45.980 [main] Log - discoverPageNavigatetion_Ar test is starting.
+[INFO ] 2024-07-18 00:14:16.123 [main] Log - discoverPageNavigatetion_Ar test is failed.
+[INFO ] 2024-07-18 00:14:21.687 [main] Log - I am in onFinish method Android_Testing
+[INFO ] 2024-07-18 00:18:40.012 [main] Log - I am in onStart method Android_Testing
+[INFO ] 2024-07-18 00:19:25.420 [main] Log - loginEmailPwdTest_Ar test is starting.
+[INFO ] 2024-07-18 00:20:59.923 [main] Log - loginEmailPwdTest_Ar test is failed.
+[INFO ] 2024-07-18 00:21:54.358 [main] Log - discoverPageNavigatetion_Ar test is starting.
+[INFO ] 2024-07-18 00:23:22.571 [main] Log - discoverPageNavigatetion_Ar test is failed.
+[INFO ] 2024-07-18 00:23:27.266 [main] Log - I am in onFinish method Android_Testing
+[INFO ] 2024-07-18 00:23:53.298 [main] Log - I am in onStart method Android_Testing
+[INFO ] 2024-07-18 00:24:38.654 [main] Log - loginEmailPwdTest test is starting.
+[INFO ] 2024-07-18 00:26:10.710 [main] Log - loginEmailPwdTest test is succeed.
+[INFO ] 2024-07-18 00:27:15.894 [main] Log - groupFunctionality test is starting.
+[INFO ] 2024-07-18 00:28:07.167 [main] Log - groupFunctionality test is succeed.
+[INFO ] 2024-07-18 00:28:48.502 [main] Log - discoverFunctionalityCricket test is starting.
+[INFO ] 2024-07-18 00:30:24.181 [main] Log - discoverFunctionalityCricket test is succeed.
+[INFO ] 2024-07-18 00:31:03.541 [main] Log - discoverFunctionalityFootBall test is starting.
+[INFO ] 2024-07-18 00:32:32.649 [main] Log - discoverFunctionalityFootBall test is succeed.
+[INFO ] 2024-07-18 00:33:15.555 [main] Log - loginEmailPwdTest_Ar test is starting.
+[INFO ] 2024-07-18 00:34:43.615 [main] Log - loginEmailPwdTest_Ar test is failed.
+[INFO ] 2024-07-18 00:35:26.864 [main] Log - discoverPageNavigatetion_Ar test is starting.
+[INFO ] 2024-07-18 00:36:53.780 [main] Log - discoverPageNavigatetion_Ar test is failed.
+[INFO ] 2024-07-18 00:36:56.844 [main] Log - I am in onFinish method Android_Testing
+[INFO ] 2024-07-17 22:37:22.646 [main] Log - I am in onStart method Android_Testing
+[INFO ] 2024-07-17 22:38:00.518 [main] Log - loginEmailPwdTest test is starting.
+[INFO ] 2024-07-17 22:39:02.722 [main] Log - loginEmailPwdTest test is succeed.
+[INFO ] 2024-07-17 22:39:42.304 [main] Log - groupFunctionality test is starting.
+[INFO ] 2024-07-17 22:40:25.609 [main] Log - groupFunctionality test is succeed.
+[INFO ] 2024-07-17 22:41:18.423 [main] Log - discoverFunctionalityCricket test is starting.
+[INFO ] 2024-07-17 22:43:04.958 [main] Log - discoverFunctionalityCricket test is succeed.
+[INFO ] 2024-07-17 22:44:04.632 [main] Log - discoverFunctionalityFootBall test is starting.
+[INFO ] 2024-07-17 22:45:39.131 [main] Log - discoverFunctionalityFootBall test is succeed.
+[INFO ] 2024-07-17 22:46:29.994 [main] Log - loginEmailPwdTest_Ar test is starting.
+[INFO ] 2024-07-17 22:47:58.533 [main] Log - loginEmailPwdTest_Ar test is failed.
+[INFO ] 2024-07-17 22:49:02.292 [main] Log - discoverPageNavigatetion_Ar test is starting.
+[INFO ] 2024-07-17 22:50:31.011 [main] Log - discoverPageNavigatetion_Ar test is failed.
+[INFO ] 2024-07-17 22:50:33.129 [main] Log - I am in onFinish method Android_Testing
+[INFO ] 2024-07-17 22:50:52.849 [main] Log - I am in onStart method Android_Testing
+[INFO ] 2024-07-17 22:51:40.505 [main] Log - loginEmailPwdTest test is starting.
+[INFO ] 2024-07-17 22:52:45.862 [main] Log - loginEmailPwdTest test is succeed.
+[INFO ] 2024-07-17 22:53:28.385 [main] Log - groupFunctionality test is starting.
+[INFO ] 2024-07-17 22:54:11.610 [main] Log - groupFunctionality test is succeed.
+[INFO ] 2024-07-17 22:54:58.202 [main] Log - discoverFunctionalityCricket test is starting.
+[INFO ] 2024-07-17 22:56:28.268 [main] Log - discoverFunctionalityCricket test is succeed.
+[INFO ] 2024-07-17 22:57:11.939 [main] Log - discoverFunctionalityFootBall test is starting.
+[INFO ] 2024-07-17 22:58:41.560 [main] Log - discoverFunctionalityFootBall test is succeed.
+[INFO ] 2024-07-17 22:59:22.325 [main] Log - loginEmailPwdTest_Ar test is starting.
+[INFO ] 2024-07-17 23:00:50.551 [main] Log - loginEmailPwdTest_Ar test is failed.
+[INFO ] 2024-07-17 23:01:35.088 [main] Log - discoverPageNavigatetion_Ar test is starting.
+[INFO ] 2024-07-17 23:03:02.924 [main] Log - discoverPageNavigatetion_Ar test is failed.
+[INFO ] 2024-07-17 23:03:05.252 [main] Log - I am in onFinish method Android_Testing
+[INFO ] 2024-07-17 23:11:20.264 [main] Log - I am in onStart method Android_Testing
+[INFO ] 2024-07-17 23:11:20.723 [main] Log - loginEmailPwdTest test is starting.
+[INFO ] 2024-07-17 23:11:20.723 [main] Log - loginEmailPwdTest test is skipped.
+[INFO ] 2024-07-17 23:11:21.005 [main] Log - loginEmailPwdTest test is failed.
+[INFO ] 2024-07-17 23:11:21.008 [main] Log - I am in onFinish method Android_Testing
+[INFO ] 2024-07-17 23:12:59.867 [main] Log - I am in onStart method Android_Testing
+[INFO ] 2024-07-17 23:13:00.208 [main] Log - loginEmailPwdTest test is starting.
+[INFO ] 2024-07-17 23:13:00.209 [main] Log - loginEmailPwdTest test is skipped.
+[INFO ] 2024-07-17 23:13:00.394 [main] Log - loginEmailPwdTest test is failed.
+[INFO ] 2024-07-17 23:13:00.396 [main] Log - I am in onFinish method Android_Testing
+[INFO ] 2024-07-17 23:23:37.673 [main] Log - I am in onStart method Android_Testing
+[INFO ] 2024-07-17 23:24:19.439 [main] Log - loginEmailPwdTest test is starting.
+[INFO ] 2024-07-17 23:25:23.134 [main] Log - loginEmailPwdTest test is succeed.
+[INFO ] 2024-07-17 23:26:09.949 [main] Log - discoverPageNavigatetion_Ar test is starting.
+[INFO ] 2024-07-17 23:27:38.575 [main] Log - discoverPageNavigatetion_Ar test is failed.
+[INFO ] 2024-07-17 23:28:25.432 [main] Log - loginEmailPwdTest_Ar test is starting.
+[INFO ] 2024-07-17 23:29:53.453 [main] Log - loginEmailPwdTest_Ar test is failed.
+[INFO ] 2024-07-17 23:29:57.027 [main] Log - I am in onFinish method Android_Testing
+[INFO ] 2024-07-17 23:50:07.319 [main] Log - I am in onStart method Android_Testing
+[INFO ] 2024-07-17 23:51:01.031 [main] Log - loginEmailPwdTest test is starting.
+[INFO ] 2024-07-17 23:52:03.678 [main] Log - loginEmailPwdTest test is succeed.
+[INFO ] 2024-07-17 23:52:50.068 [main] Log - discoverPageNavigatetion_Ar test is starting.
+[INFO ] 2024-07-17 23:54:27.118 [main] Log - I am in onStart method Android_Testing
+[INFO ] 2024-07-17 23:55:07.867 [main] Log - loginEmailPwdTest test is starting.
+[INFO ] 2024-07-17 23:56:10.652 [main] Log - loginEmailPwdTest test is succeed.
+[INFO ] 2024-07-17 23:56:12.440 [main] Log - I am in onFinish method Android_Testing
